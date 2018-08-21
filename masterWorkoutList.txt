@@ -1,0 +1,38 @@
+barbellPress upperBody
+dumbellPress upperBody
+weightedDips upperBody
+
+powerFly chest
+bodyWeightChestFly chest
+machineFly chest
+
+facePull shoulders
+wideUprightRow shoulders
+lateralRaises shoulders
+
+closeGripBenchPress triceps
+overheadTricepExtensions triceps
+
+yatesRow back
+deadlift back
+pullup back
+latPulldown back
+
+closeGripPullups biceps
+barbellCurl biceps
+dumbellCurl biceps
+dragCurl biceps
+
+dumbellShrugs traps
+pullupShrug traps
+barbellRow traps
+
+reversePecDecFly rearShoulders
+cableRearRaises rearShoulders
+
+standingCalfRaises calves
+seatedCalfRaises calves
+
+barbellSquats legs
+legPress legs
+bulgarianSquats legs
